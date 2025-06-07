@@ -3,7 +3,7 @@ import requests
 
 app = Flask(__name__)
 
-API_URL = "https://api.outbrkgame.com/api/stats?token=a55f058c"
+API_URL = "https://api.outbrkgame.com/api/stats?token=YOUR TOKEN HERE"
 TRACKED_STATS = [
     "distance_travelled_driving",
     "reports_sent_first",
