@@ -1,4 +1,4 @@
-1. Run this code during your stream session and create a new html source directing to the local host server.
+1. Run this code during your stream session and create a new html source in OBS directing to the local host server, something like "http://127.0.0.1:5000".
    
 2. Make sure you replace the token="YOUR TOKEN HERE" with your actual outbrk game token found here: https://api.outbrkgame.com/ (Make sure your profile is public!)
 
